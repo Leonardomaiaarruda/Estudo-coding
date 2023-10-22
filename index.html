@@ -53,7 +53,7 @@
 
     <section>
         <div class="contato">
-            <h2>ENTRRAR EM CONTATO</h2>
+            <img src="./img/phone.png" alt="">
         </div>
     </section>
 
