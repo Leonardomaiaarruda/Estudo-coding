@@ -8,7 +8,8 @@ body{
 
 #menu-inicial{
     width: 100%;
-    background-color: rgba(43, 43, 43, 0.7);
+    background-color: rgba(17, 17, 17, 0.7);
+    position: fixed;
 }
 
 
@@ -25,9 +26,10 @@ body{
 }
 
 .selecionado{
-    border-bottom: 1px solid silver;
-    border-top: 1px solid silver;
+    border-bottom: 1px solid rgb(44, 230, 7);
+    border-top:  1px solid rgb(44, 230, 7);
     transition: 0.2s all;
+    background-color: rgb(51, 51, 51);
 }
 
 
@@ -114,7 +116,7 @@ body{
      #menu-inicial{
         width: 100%;
         height: 100vh;
-        position: absolute;
+        position: fixed;
         left: 0px;
     }
 
@@ -125,6 +127,7 @@ body{
         padding-bottom: 14px;
         margin-left: -40px;
         margin-top: 30px;
+
     }
 
     .slider-img{
