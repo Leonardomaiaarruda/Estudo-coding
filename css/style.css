@@ -120,8 +120,8 @@ body{
         left: 0px;
     }
 
-    .menu-link{
-        margin-top: 100px;
+    .logo h2{
+        padding-bottom: 110px;
     }
     .menu-link a{
         display: block;
