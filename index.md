@@ -23,7 +23,7 @@
 
     <section id="menu-inicial">
         <div class="menu">
-
+            
             <div class="logo">
                 <h2>ENGENHARIA</h2>
              </div>
@@ -31,9 +31,9 @@
            <div class="menu-link">
             <nav>
                 <ul>
-                    <a class="selecionado" href="">PROJETOS</a>
-                    <a href="">CONSTRUIR</a>
-                    <a href="">REFORMAR</a>
+                    <a class="selecionado" href="https://docs.google.com/forms/d/e/1FAIpQLSdM0KbnmmNMUJjgsflVy1-kgdmEs9LIT_jgcb4YoviQRfV_jQ/viewform">Peça seu orçamento</a>
+                    <a href="https://api.whatsapp.com/send?phone=5544998713780">Falar com Engenheiro</a>
+                    <a href="mailto:jeniferarruda44@gmail.com">Enviar e-mail</a>
                 </ul>
             </nav>
            </div>
@@ -53,7 +53,7 @@
 
     <section>
         <div class="contato">
-            <img src="./img/phone.png" alt="">
+            <a href="https://api.whatsapp.com/send?phone=5544998713780" target="_blank" rel="noopener noreferrer"><img src="./img/phone.png" alt=""></a>
         </div>
     </section>
 
