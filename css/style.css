@@ -119,16 +119,26 @@ body{
         position: fixed;
         left: 0px;
     }
-
+    .logo{
+        margin-top: -30px;
+    }
+    
     .logo h2{
-        padding-bottom: 110px;
+        font-size: 1rem;
+        padding-top: 40px;
+        color: rgb(228, 228, 228);
+        padding-bottom: 20px;
+    }
+   
+    .menu-link{
+        margin-top: -19px;
     }
     .menu-link a{
         display: block;
         padding-top: 14px;
         padding-bottom: 14px;
         margin-left: -40px;
-        margin-top: 30px;
+        margin-top: 18px;
 
     }
 
